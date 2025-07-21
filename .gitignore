@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+.venv/
+.venv1/
+*.json
+*.sqlite3
+.idea/
+credentials11.json 
+credsheet.json 
