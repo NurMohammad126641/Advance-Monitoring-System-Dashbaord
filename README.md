@@ -1,4 +1,5 @@
-# 🚀 Dashboard Project
+# 🚀 Advanced Service Monitoring Dashboard
+  Visualized in Looker Studio
 
 This is a real-time transaction monitoring dashboard.
 It fetches data from PostgreSQL, processes and formats it in Python, then updates a Google Sheet using the Google Sheets API. 
